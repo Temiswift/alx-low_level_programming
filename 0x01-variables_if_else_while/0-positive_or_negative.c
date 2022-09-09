@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-/* Return: 0 */
+/**
+ *
+ * main - entry point
+ *
+ * Return: 0 
+ **/
 int main(void)
 {
 		int n;
